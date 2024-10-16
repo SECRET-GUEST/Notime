@@ -97,69 +97,6 @@ If you're a 3D animator, consider:
 
 ## 🛠 Installation
 
-### From Source
-
-1. **Clone the Repository**:
-
-   ```bash
-   git clone https://github.com/your-username/notime.git
-   ```
-
-2. **Navigate to the Project Directory**:
-
-   ```bash
-   cd notime
-   ```
-
-3. **Create a Virtual Environment** (recommended):
-
-   ```bash
-   python -m venv venv
-   ```
-
-4. **Activate the Virtual Environment**:
-
-   - On Windows:
-
-     ```bash
-     venv\Scripts\activate
-     ```
-
-   - On macOS/Linux:
-
-     ```bash
-     source venv/bin/activate
-     ```
-
-5. **Install Dependencies**:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-6. **Run the Application**:
-
-   ```bash
-   python notime.py
-   ```
-
-### Using the Installer (Windows)
-
-1. **Download the Installer**:
-
-   - Get the latest version from the [Releases](https://github.com/SECRET-GUEST/notime/releases) page.
-
-2. **Run the Installer**:
-
-   - Double-click `notime_installer_0.0.2.exe` and follow the on-screen instructions.
-
-3. **Launch the Application**:
-
-   - After installation, Notime will start automatically or can be launched from the Start menu.
-
-
-## 📥 Installation
-
 ```
 ██   ██  ██████  ██     ██     ████████  ██████      ██████  ██    ██ ███    ██ 
 ██   ██ ██    ██ ██     ██        ██    ██    ██     ██   ██ ██    ██ ████   ██ 
