@@ -75,7 +75,7 @@ Before you begin, ensure you have the following installed:
 
 ## 📜 License
 
-This repository is released under the [MIT License](LICENSE). Please see the `LICENSE` file for more information.
+This repository is released under the [GNU GENERAL PUBLIC LICENSE](LICENSE). Please see the `LICENSE` file for more information.
 
 ## ❓ Support & Questions
 
