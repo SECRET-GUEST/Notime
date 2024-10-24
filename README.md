@@ -20,14 +20,12 @@ Notime is a productivity application designed to enhance your focus by managing 
 ## 📋 Table of Contents
 
 1. [Features](#-features)
-2. [Prerequisites](#-prerequisites)
-3. [To Do](#%EF%B8%8F-todo)
-4. [News](#news)
-5. [Usage](#-usage)
-6. [License](#-license)
-7. [Support & Questions](#-support--questions)
-8. [Recommendations](#-recommendations)
-9. [Installation](#-installation)
+2. [To Do](#%EF%B8%8F-todo)
+3. [News](#news)
+4. [Usage](#-usage)
+5. [License](#-license)
+6. [Recommendations](#-recommendations)
+7. [Installation](#-installation)
 
 ## 🌟 Features
 
@@ -37,14 +35,6 @@ Notime is a productivity application designed to enhance your focus by managing 
 - **System Tray Icon**: Minimizes to the system tray with a context menu for quick access.
 - **Customizable Settings**: Options to disable sounds or animations according to your preference.
 - **Background Operation**: Runs silently in the background without interrupting your workflow.
-
-## 🔍 Prerequisites
-
-Before you begin, ensure you have the following installed:
-
-- **Python 3.10** or higher
-- **PySide6** library
-- **Windows OS**
 
 ## 🛠️ To Do
 
@@ -56,7 +46,7 @@ Before you begin, ensure you have the following installed:
 
 ## News
 
-- 🗞️ **Upcoming Update**: Version 1.0.0 will include customizable timer settings and improved user interface.
+- 🗞️ **Upcoming Update**: Version 0.0.3 will include customizable timer settings and improved user interface.
 
 ## 💡 Usage
 
@@ -76,10 +66,6 @@ Before you begin, ensure you have the following installed:
 ## 📜 License
 
 This repository is released under the [GNU GENERAL PUBLIC LICENSE](LICENSE). Please see the `LICENSE` file for more information.
-
-## ❓ Support & Questions
-
-If you have any questions or need support, please feel free to open an issue or start a new discussion. You can also reach out via Twitter.
 
 ## 💎 Recommendations
 
