@@ -20,48 +20,81 @@ Notime is a productivity application designed to enhance your focus by managing 
 ## 📋 Table of Contents
 
 1. [Features](#-features)
-2. [To Do](#%EF%B8%8F-todo)
-3. [News](#news)
+2. [To Do](#%EF%B8%8F-to-do)
+3. [News](#-news)
 4. [Usage](#-usage)
 5. [License](#-license)
 6. [Recommendations](#-recommendations)
 7. [Installation](#-installation)
 
+---
+
 ## 🌟 Features
 
-- **Work & Break Cycles**: Automatically manages 45-minute work sessions followed by alternating 10 and 20-minute breaks.
-- **Full-Screen Animations**: Displays engaging animations to signal the start and end of cycles.
-- **Audio Notifications**: Plays sounds synchronized with animations to grab your attention.
-- **System Tray Icon**: Minimizes to the system tray with a context menu for quick access.
-- **Customizable Settings**: Options to disable sounds or animations according to your preference.
-- **Background Operation**: Runs silently in the background without interrupting your workflow.
+- **Customizable Work & Break Cycles**: Set your preferred durations for work sessions and breaks via the new **Settings** window.
 
-## 🛠️ To Do
+- **Pause & Resume**: Pause the timer at any time and resume when you're ready, providing flexibility in managing your schedule.
 
-1. **Multi-language Support**: Implement localization for different languages.
-2. **Customizable Timers**: Allow users to set custom durations for work and break periods.
-3. **Cross-Platform Compatibility**: Extend support to macOS and Linux systems.
-4. **Notification Enhancements**: Add desktop notifications in addition to animations and sounds.
-5. **Pause/Resume Functionality**: Enable users to pause or resume the timer as needed.
+- **Full-Screen Animations**: Displays engaging animations to signal the start and end of cycles, helping you transition smoothly between work and rest periods.
 
-## News
+- **Audio Notifications**: Plays sounds synchronized with animations to grab your attention and reinforce cycle transitions.
 
-- 🗞️ **Upcoming Update**: Version 0.0.3 will include customizable timer settings and improved user interface.
+- **System Tray Icon**: Minimizes to the system tray with a context menu for quick access to all functionalities.
+
+- **Settings Persistence**: Your custom settings are saved and persist across sessions, so your preferences are always remembered.
+
+- **Background Operation**: Runs silently in the background without interrupting your workflow, allowing you to focus on your tasks.
+
+---
+
+## 🛠️ To-Do
+
+1. **Multi-language Support**: Implement localization for different languages to make Notime accessible to a wider audience.
+
+2. **Cross-Platform Compatibility**: Extend support to macOS and Linux systems to reach more users.
+
+3. **Notification Enhancements**: Add desktop notifications in addition to animations and sounds for more subtle alerts.
+
+4. **User Interface Improvements**: Enhance the settings window and system tray menu for better usability and a more intuitive experience.
+
+5. **Statistics Tracking**: Implement tracking of work sessions and breaks for productivity insights and progress monitoring.
+
+---
+
+## 📰 News
+
+- 🆕 **Version 0.0.3 Released**: Now includes customizable timer settings, pause/resume functionality, and improved animation performance.
+
+---
 
 ## 💡 Usage
 
-- **Launching the Application**: Run `notime.exe` or execute `python notime.py` if running from source.
+- **Launching the Application**: Run `notime.exe` or execute `python notime.py` if running from the source code.
+
 - **System Tray Menu**:
-  - Right-click the Notime icon in the system tray to access options.
-  - **Disable Sound**: Toggle audio notifications.
-  - **Disable Animation**: Toggle full-screen animations.
-  - **Quit**: Exit the application.
+  - **Pause/Start**: Pause or resume the timer according to your needs.
+  - **Disable Sound**: Toggle audio notifications on or off.
+  - **Settings**: Open the **Settings** window to adjust timer durations and preferences.
+  - **Exit**: Close the application completely.
+
 - **Cycle Notifications**:
-  - **Work Cycle**: Starts with a "counter" animation and sound.
-  - **Break Cycle**: Signaled by an "over" animation and sound.
-- **Default Cycle Durations**:
+  - **Work Cycle**: Starts with a "counter" animation and sound to signal the beginning of a work session.
+  - **Break Cycle**: Signaled by an "over" animation and sound to indicate it's time for a break.
+
+- **Customizing Cycle Durations**:
+  - Access the **Settings** window from the system tray menu.
+  - Adjust the durations for:
+    - **Work Interval**
+    - **Break 1 Interval**
+    - **Break 2 Interval**
+    - **Total Duration**
+  - Click **Save Settings** to apply changes immediately.
+  - Your settings will be saved for future sessions.
+
+- **Default Cycle Durations** (if not customized):
   - **Work**: 45 minutes
   - **Breaks**: Alternates between 10 and 20 minutes
+  - **Total Duration**: 8 hours
 
 ## 📜 License
 
